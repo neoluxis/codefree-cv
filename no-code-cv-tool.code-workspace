@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"donjayamanne.python-extension-pack", // Python 扩展包
+			"wayou.vscode-todo-highlight", // TODO 高亮
+			"yzhang.markdown-all-in-one", // markdown 阅读编辑
+			"hediet.vscode-drawio", // 流程图阅读编辑
+		]
+	}
+}

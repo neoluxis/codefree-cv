@@ -1,6 +1,9 @@
+# Python虚拟环境
 .venv/
 
+# 自己的笔记、记事
 notes/
 
+# Python运行的缓存
 __pycache__/
 
